@@ -48,7 +48,7 @@ Siga os passos abaixo no terminal do seu VS Code para rodar a aplicação:
 
 ### 1. Clonar o Repositório
 ```bash
-git clone [https://github.com/felipe2008pg1/sistema-eleitoral.git](https://github.com/felipe2008pg1/sistema-eleitoral.git)
+git clone [https://github.com/felipe2008pg1/sistema-eleitoral.git](https://github.com/felipe2008pg1/sistema-eleitoral.git]
 cd sistema-eleitoral
 ```
 
