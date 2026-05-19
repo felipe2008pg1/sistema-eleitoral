@@ -1,3 +1,5 @@
+## This project are avaliable just in version PT-BR. 🇧🇷
+
 # 🗳️ Sistema Eleitoral Web - Eleições 2026
 
 Um sistema de votação interativo e moderno desenvolvido em **Python** utilizando o micro-framework **Flask**, com persistência de dados local em formato **JSON** e interface web limpa (HTML5/CSS3).
